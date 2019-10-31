@@ -45,6 +45,10 @@
 - `SECRET_KEY` — секретный ключ проекта
 - `DATABASE_NAME` — путь до базы данных, например: `schoolbase.sqlite3`
 
+## Запуск скриптов по успеваемости
+    Проще всего запустить файл utils.py или функцию main оттуда
+    Либо запускать функции fix_marks/remove_chastisements/create_commendation по отдельности
+
 ## Цели проекта
 
 Код написан в учебных целях — это урок в курсе по Python и веб-разработке на сайте [Devman](https://dvmn.org).
